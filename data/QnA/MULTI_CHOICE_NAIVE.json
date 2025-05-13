@@ -1,0 +1,162 @@
+[
+    {
+        "q": "Pháp luật quy định Nam nữ được kết hôn khi đạt độ tuổi nào?\nA. Nam từ đủ 19 tuổi, nữ từ đủ 17 tuổi.\nB. Nam từ 20 tuổi, nữ từ 18 tuổi.\nC. Nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi.\nD. Cả 3 phương án trên đều sai",
+        "a": "{\n    \"a\": \"C\",\n    \"e\": \"Pháp luật quy định độ tuổi tối thiểu để nam nữ kết hôn là nam từ đủ 20 tuổi trở lên và nữ từ đủ 18 tuổi trở lên, theo Điều 8 Luật Hôn nhân và gia đình năm 2014. Phương án A và B đều không đúng vì quy định tuổi kết hôn phải lớn hơn hoặc bằng 20 đối với nam và 18 đối với nữ.\"\n}",
+        "sga": "C"
+    },
+    {
+        "q": "Pháp luật cấm kết hôn trong những trường hợp nào sau đây:\n\nA. Giữa người đang có vợ và đang có chồng.\n\nB. Người mất năng lực hành vi dân sự.\n\nC. Người có dòng máu về trực hệ; có họ trong phạm vi ba đời\n\nD. Tất cả các trường hợp trên đều bị cấm.",
+        "a": "{\n    \"a\": \"D\",\n    \"e\": \"Pháp luật cấm kết hôn trong tất cả các trường hợp A, B và C. Cụ thể, kết hôn giữa người đang có vợ hoặc chồng (A) là vi phạm quy định về chế độ hôn nhân một vợ một chồng; kết hôn với người mất năng lực hành vi dân sự (B) không hợp pháp do người đó không có khả năng đưa ra quyết định; và việc kết hôn giữa những người có dòng máu trực hệ hoặc có họ trong phạm vi ba đời (C) cũng bị cấm bởi luật hôn nhân. Do đó, lựa chọn D là đúng vì nó bao gồm tất cả các trường hợp cấm kết hôn.\"\n}",
+        "sga": "D"
+    },
+    {
+        "q": "Việc kết hôn phải được đăng ký với cơ quan nào?\n\nA. Thôn, bản, khối phố.\n\nB. UBND cấp xã của 01 trong hai bên nam,nữ\n\nC. UBND cấp huyện của 01 tronghai bên nam, nữ.\n\nD. Nhà thờ.\n\n",
+        "a": "{\n    \"a\": \"B\",\n    \"e\": \"Theo quy định tại Điều 7 và Điều 17 Luật Hộ tịch 2014, việc đăng ký kết hôn phải được thực hiện tại UBND cấp xã cho công dân Việt Nam. Phương án A (Thôn, bản, khối phố) và D (Nhà thờ) không phải là cơ quan có thẩm quyền để đăng ký kết hôn. Phương án C (UBND cấp huyện) chỉ áp dụng trong trường hợp có yếu tố nước ngoài. Vì vậy, B là lựa chọn đúng.\"\n}",
+        "sga": "B"
+    },
+    {
+        "q": "Vợ chồng đã ly hôn nay muốn kết hôn lại có cần phải đăng ký kết hôn không?\n\nA. Không cần đăng ký.\n\nB. Phải đăng ký.\n\nC. Không đăng ký nhưng phải báo cáo UBND cấp xã.\n\nD. Không đăng ký nhưng phải báo cáo thôn, khối phố.",
+        "a": "{\n    \"a\": \"B\",\n    \"e\": \"Vợ chồng đã ly hôn muốn tái hôn thì bắt buộc phải làm thủ tục đăng ký kết hôn theo quy định của Luật Hôn nhân và gia đình 2014. Việc kết hôn không được đăng ký thì không có giá trị pháp lý. Các phương án còn lại đều sai vì không phản ánh đúng quy định của pháp luật về việc kết hôn lại sau khi ly hôn.\"\n}",
+        "sga": "B"
+    },
+    {
+        "q": " Việc yêu cầu Toà án giải quyết ly hôn là do:\nC. Vợ, chồng hoặc cả hai người.\nB. Chỉ do người chồng.\nD. Chỉ do người vợ.\nA. Tất cả các đáp án",
+        "a": "{\n    \"a\": \"C\",\n    \"e\": \"Phương án C là đúng vì theo quy định của luật hôn nhân và gia đình, yêu cầu ly hôn có thể được đưa ra bởi vợ, chồng hoặc cả hai người. Các phương án B và D đều sai vì chúng chỉ nhấn mạnh vào một bên (chồng hoặc vợ) mà không đề cập đến khả năng yêu cầu của bên còn lại. Phương án A cũng sai vì nó khẳng định tất cả các đáp án, trong khi thực tế chỉ có phương án C là chính xác.\"\n}",
+        "sga": "C"
+    },
+    {
+        "q": "Khi con mấy tuổi thì khi ly hôn phải xem xét vào nguyện vọng của con là sống cùng bố hay mẹ?\nA. Từ đủ 7 tuổi.\nC. Từ đủ 9 tuổi.\nB. 7 tuổi.\nD. 9 tuổi.",
+        "a": "{\n    \"a\" : \"A\",\n    \"e\" : \"Theo quy định tại Điều 84 Luật Hôn nhân và Gia đình 2014, Tòa án sẽ xem xét nguyện vọng của con khi con đủ 7 tuổi trở lên. Do đó, phương án A (Từ đủ 7 tuổi) là đúng. Các phương án B (7 tuổi) và C (Từ đủ 9 tuổi) đều không chính xác vì mặc dù B có thể diễn đạt đúng độ tuổi, nhưng A rõ ràng hơn về quy định pháp luật. Phương án D (9 tuổi) là sai vì tuổi bắt buộc để xem xét nguyện vọng của con là từ 7 tuổi chứ không phải 9 tuổi.\"\n}",
+        "sga": "B"
+    },
+    {
+        "q": "Anh H và chị G ngày 05/2/2015 đi làm thủ tục ly hôn tại Toà án. Ngày 02/4/2015 Toà án ra quyết định ly hôn giữa anh H và chị G. Hỏi hôn nhân của anh chị chấm dứt vào thời điểm nào?\nA. 05/2/2015.\nB. 02/4/2016.\nC. 05/4/2015.\nD. 02/4/2015.",
+        "a": "{\n    \"a\": \"D\",\n    \"e\": \"Hôn nhân của anh H và chị G chấm dứt vào thời điểm Toà án ra quyết định ly hôn, tức là ngày 02/4/2015. Các phương án khác sai vì: \\n- A: 05/2/2015 là thời điểm làm thủ tục ly hôn, không phải thời điểm chấm dứt hôn nhân.\\n- B: 02/4/2016 là một ngày không liên quan và không phải thời điểm chấm dứt hôn nhân.\\n- C: 05/4/2015 không phải là ngày có sự kiện nào liên quan và cũng không phải thời điểm chấm dứt hôn nhân.\"\n}",
+        "sga": "D"
+    },
+    {
+        "q": "Sau ly hôn T nuôi con nhỏ dưới 36 tháng tuổi. Vậy chồng của T phải có nghĩa vụ gì sau đây?\nA. Tất cả các đáp án.\nB. Thăm nom.\nC. Cấp dưỡng.\nD. Giáo dục.",
+        "a": "{\n    \"a\": \"A\",\n    \"e\": \"Tất cả các đáp án đều đúng với nghĩa vụ của chồng T sau khi ly hôn. Theo pháp luật, chồng có nghĩa vụ thăm nom, cấp dưỡng và giáo dục con. Cụ thể: Thăm nom để duy trì mối quan hệ cha con; Cấp dưỡng là trách nhiệm tài chính để đảm bảo nhu cầu sinh hoạt của con; và Giáo dục là bổn phận cung cấp sự chăm sóc và đạo đức cho con cái.\"\n}",
+        "sga": "C"
+    },
+    {
+        "q": " F và D ly hôn. Việc ly hôn của F và D làm chấm dứt quan hệ nào sau đây?\nA. Quan hệ tình yêu thương.\nB. Quan hệ hôn nhân.\nC. Quan hệ tình cảm vợ, chồng.\nD. Quan hệ gia đình.",
+        "a": "{\n    \"a\" : \"B\",\n    \"e\" : \"Việc ly hôn giữa F và D chấm dứt quan hệ hôn nhân, tức là sự kết hợp pháp lý giữa hai người. Các phương án còn lại không diễn đạt đúng bản chất của việc ly hôn: A (quan hệ tình yêu thương) và C (quan hệ tình cảm vợ, chồng) có thể tiếp tục tồn tại trong một số trường hợp dù không còn hôn nhân, trong khi D (quan hệ gia đình) có thể bao gồm mối quan hệ giữa các thành viên khác trong gia đình.\"\n}",
+        "sga": "B"
+    },
+    {
+        "q": "Những giấy tờ nào sau đây không bắt buộc phải có khi kết hôn có yếu tố nước ngoài:\nA. Giấy chứng nhận quyền sử dụng đất.\nB. Tất cả các phương án.\nC. Giấy xác nhận trình trạng hôn nhân nơi công tác của 2 bên.\nD. Giấy xác nhận không mắc dịch bệnh.",
+        "a": "{\n    \"a\": \"A\",\n    \"e\": \"Giấy chứng nhận quyền sử dụng đất không phải là tài liệu bắt buộc để đăng ký kết hôn có yếu tố nước ngoài. Trong khi đó, giấy xác nhận tình trạng hôn nhân nơi công tác của hai bên và giấy xác nhận không mắc dịch bệnh lại là những giấy tờ cần thiết theo quy định. Do đó, phương án A là đúng và các phương án còn lại đều sai.\"\n}",
+        "sga": "A"
+    },
+    {
+        "q": "Ngày 1/6/2020 chị X đến UBND nơi chị cư trú để xin cấp giấy xác nhận tình trạng hôn nhân. Vậy thời hạn chị sử dụng giấy này để đăng ký kết hôn:\nA. 1/12/2020.\nB. 1/5/2020.\nC. 1/4/2020.\nD. 1/10/2020.",
+        "a": "{\n    \"a\": \"A\",\n    \"e\": \"Chị X đến UBND xin cấp giấy xác nhận tình trạng hôn nhân vào ngày 1/6/2020 và giấy này có giá trị trong vòng 6 tháng kể từ ngày xác nhận. Do đó, thời hạn sử dụng giấy để đăng ký kết hôn sẽ là 1/12/2020. Các phương án còn lại đều không đúng vì chúng không phù hợp với khoảng thời gian 6 tháng kể từ ngày cấp giấy.\"\n}",
+        "sga": "D"
+    },
+    {
+        "q": "Chị X và Anh E kết hôn với nhau, trường hợp nào sau đây quan hệ hôn nhân của anh chị là quan hệ hôn nhân có yếu tố nước ngoài?\nB. Tất cả các phương án trên.\nC. Chị X quốc tịch Pháp kết hôn với anh T quốc tịch Việt Nam.\nD. Chị X và anh E định cư ở nước ngoài.\nA. Chị X là người quốc tịch Pháp và anh E là quốc tịch Mỹ.",
+        "a": "{\n    \"a\" : \"B\",\n    \"e\" : \"Phương án B ('Tất cả các phương án trên') là câu trả lời đúng vì tất cả các tình huống khác (C, D, và A) đều liên quan đến yếu tố nước ngoài trong quan hệ hôn nhân. Phương án C có một bên là người Pháp và một bên là người Việt, phương án D là chị X và anh E sống ở nước ngoài, và phương án A có hai bên đều mang quốc tịch nước ngoài. Tất cả đều đủ điều kiện để xác định là quan hệ hôn nhân có yếu tố nước ngoài, do đó, B là lựa chọn chính xác. Các phương án còn lại không sai nhưng không thể đứng riêng lẻ nếu không có lựa chọn B.\"\n}",
+        "sga": "B"
+    },
+    {
+        "q": "Chị X thường trú tại Thành phố Móng Cái và kết hôn với anh T là người Trung Quốc thường trú tại nơi giáp với Móng Cái. Vậy cơ quan nào sẽ giải quyết việc ly hôn của anh chị?\nA. TAND tỉnh Quảng Ninh.\nB. TAND.\nC. TAND thành phố Móng Cái.\nD. UBND thành phố Móng Cái.",
+        "a": "{\n    \"a\" : \"C\",\n    \"e\" : \"Cơ quan có thẩm quyền giải quyết việc ly hôn của anh chị là Tòa án nhân dân (TAND) thành phố Móng Cái vì chị X thường trú tại đây. Mọi quy trình pháp lý liên quan đến ly hôn sẽ được thực hiện tại nơi thường trú của một trong các bên. Các phương án khác không đúng vì: A (TAND tỉnh Quảng Ninh) không phải là cấp phù hợp khi có thể giải quyết tại cấp thành phố; B (TAND) không rõ địa điểm; D (UBND thành phố Móng Cái) không có thẩm quyền trong việc giải quyết ly hôn.\"\n}",
+        "sga": "C"
+    },
+    {
+        "q": "Khái niệm “Tảo hôn” được giải thích như thế nào trong Luật Hôn nhân và gia đình năm 2014?\nA. Tảo hôn là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn theo quy định tại điểm a khoản 1 điều 8 của Luật này\nB. Tảo hôn là việc lấy vợ, lấy chồng khi cả hai bên chưa đủ tuổi kết hôn theo quy định tại điểm a khoản 1 điều 8\nC. Tảo hôn là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn\nD. Cả 3 hành vi trên",
+        "a": "{\n    \"a\": \"D\",\n    \"e\": \"Khái niệm “Tảo hôn” được định nghĩa trong Luật Hôn nhân và gia đình năm 2014 bao gồm việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn. Do đó, cả A, B và C đều đúng, khiến D (Cả 3 hành vi trên) là phương án chính xác. Phương án A chỉ nêu rõ một bên hoặc cả hai bên chưa đủ tuổi, nhưng không đề cập cụ thể đến hành vi tảo hôn đầy đủ như trong phương án D.\"\n}",
+        "sga": "D"
+    },
+    {
+        "q": " “Yêu sách của cải trong kết hôn” được giải thích trong Luật Hôn nhân và gia đình năm 2014 là như thế nào trong các phương án dưới đây?\nA. Là việc đòi hỏi về vật chất một cách quá đáng và coi đó là điều kiện để kết hôn nhằm cản trở việc kết hôn tự nguyện của nam, nữ\nB. Là việc đặt ra những yêu cầu về sính lễ trong ăn hỏi; tổ chức lễ cưới, xin dâu khi biết trước nhà trai hoặc nhà gái không thể đáp ứng được\nC. Là việc nhà trai hoặc nhà gái đặt ra những yêu cầu cụ thể về vật chất như: tiền, vàng, bạc trắng với số lượng lớn, mục đích là để cản trở việc kết hôn tự nguyện của nam, nữ",
+        "a": "```json\n{\n    \"a\": \"C\",\n    \"e\": \"Phương án C là đúng vì nó nêu rõ việc yêu cầu cụ thể về vật chất với số lượng lớn là để cản trở việc kết hôn tự nguyện của nam, nữ, phù hợp với nội dung muốn nhấn mạnh sự không công bằng trong yêu cầu tài chính trong hôn nhân. Trong khi đó, phương án A chỉ nói về yêu sách một cách chung chung không sát với nội dung luật, và phương án B tuy đề cập đến yêu cầu sính lễ nhưng không thể hiện rõ bản chất của yêu sách cản trở hôn nhân tự nguyện.\"\n}\n```",
+        "sga": "A"
+    },
+    {
+        "q": " Chị E hoãn chia di sản thừa kế (khi chồng chết) theo quy định là bao nhiêu năm?\nA. Không quá 3 năm.\nB. Không quá 2 năm.\nC. Không quá 1 năm.\nD. Không quá 5 năm.",
+        "a": "{\n    \"a\" : \"A\",\n    \"e\" : \"Chị E hoãn chia di sản thừa kế theo quy định được quy định tại Điều 661 Bộ luật Dân sự 2015, trong đó nêu rõ rằng thời hạn hoãn chia di sản không quá 3 năm. Các phương án B, C, và D đều không đúng vì chúng không phản ánh chính xác quy định pháp luật hiện hành về thời gian hoãn chia di sản.\"\n}",
+        "sga": "B"
+    },
+    {
+        "q": " Nhận định nào sau đây đúng về tài sản chung của vợ chồng?\nA. Lợi nhuận từ việc đầu tư kinh doanh của vợ chồng B và V.\nB. Tất cả các nhận định.\nC. Tiền trúng xổ số của B và V khi đi du lịch mua.\nD. Xe máy do B và V mua trong thời kỳ hôn nhân.",
+        "a": "{\n    \"a\": \"B\",\n    \"e\": \"Lựa chọn B là đúng vì tất cả các nhận định về tài sản chung của vợ chồng đều đúng theo quy định pháp luật. Cụ thể: A là đúng vì lợi nhuận từ đầu tư kinh doanh là tài sản chung; C là đúng vì tiền trúng xổ số cũng được coi là tài sản chung nếu không có thỏa thuận khác; D là đúng vì xe máy được mua trong thời kỳ hôn nhân là tài sản chung của vợ chồng. Do đó, tất cả đều đúng.\"\n}",
+        "sga": "D"
+    },
+    {
+        "q": "V và B có 4 tỷ đồng gửi tiết kiệm là tài sản chung. V chết đi và con của V yêu cầu đòi chia di sản. Việc chia tài sản chung áp dụng như nào?\nA. 2 tỷ của B còn 2 tỷ chỉ chia cho những người yêu cầu.\nB. 4 tỷ chia di sản thừa kế theo quy định.\nC. 4 tỷ của B.\nD. 4 tỷ chia đôi vì đây là tài sản chung.",
+        "a": "{\n    \"a\": \"B\",\n    \"e\": \"Chọn phương án B vì tài sản 4 tỷ đồng là tài sản chung của V và B trước khi V qua đời. Khi V chết, di sản thừa kế sẽ bao gồm toàn bộ tài sản chung này. Theo quy định của luật về thừa kế, tài sản sẽ được chia theo phần di sản thừa kế mà V để lại, do đó 4 tỷ sẽ được chia theo quy định chứ không chỉ chia cho B hay những người yêu cầu. Các phương án còn lại là sai vì: A chỉ chia 2 tỷ cho B, không hợp lý vì tài sản chung không thể chỉ chia cho một bên; C cho rằng toàn bộ 4 tỷ thuộc quyền sở hữu của B, điều này không đúng khi có di sản để chia; D cho rằng tất cả 4 tỷ được chia đôi nhưng không đề cập đến quy trình thừa kế và những người thừa kế khác, không phản ánh đúng quy định.\" \n}",
+        "sga": "D"
+    },
+    {
+        "q": "Mảnh đất 500m² là tài sản riêng của H. Tiền nộp thuế đất H lấy từ nguồn nào?\nA. Sử dụng từ lương trong thời kỳ hôn nhân.\nB. Sử dụng tiền chung trong thời kỳ hôn nhân.\nC. Tiền tạo ra từ tài sản riêng của H.\nD. Không có đáp án.",
+        "a": "{\n    \"a\": \"C\",\n    \"e\": \"Bởi vì theo quy định tại Điều 43 Luật Hôn nhân và Gia đình năm 2014, tài sản riêng của vợ chồng có thể tạo ra lợi nhuận hoặc hoa lợi, từ đó có thể sử dụng cho các khoản chi phí, trong đó có cả việc nộp thuế đất. Trong trường hợp này, tiền nộp thuế đất của H được cho là được tạo ra từ tài sản riêng của H, do đó phương án C là đúng. Các phương án còn lại không đúng vì: A không chính xác vì lương trong thời kỳ hôn nhân có thể là tài sản chung, B sai vì tiền chung không phải là nguồn thu nhập từ tài sản riêng, và D là không hợp lý vì đã có đáp án đúng.\"\n}",
+        "sga": "C"
+    },
+    {
+        "q": "Cơ quan nào sau đây có thẩm quyền đăng ký kết hôn giữa công dân Việt Nam với nhau cư trú ở nước ngoài được tiến hành tại?\nA. Cơ quan đại diện ngoại giao; Cơ quan lãnh sự của Việt Nam tại nước đó.\nB. UBND cấp tỉnh.\nC. UBND cấp xã, phường nơi cư trú của một trong hai bên kết hôn.\nD. UBND cấp quận, huyện thị trấn.",
+        "a": "{\n    \"a\": \"A\",\n    \"e\": \"Cơ quan đại diện ngoại giao hoặc lãnh sự của Việt Nam tại nước ngoài có thẩm quyền đăng ký kết hôn giữa công dân Việt Nam với nhau cư trú ở nước ngoài, theo quy định. Các phương án còn lại là sai vì UBND cấp tỉnh, UBND cấp xã, phường, và UBND cấp quận, huyện không có thẩm quyền trong trường hợp đăng ký kết hôn tại nước ngoài.\"\n}",
+        "sga": "A"
+    },
+    {
+        "q": "Năm 2018 chị T kết hôn, Chị T sinh năm nào theo quy định của pháp luật đủ tuổi kết hôn?\nA. 2000.\nB. 1998.\nC. 1999.\nD. Không có phương án nào.",
+        "a": "```json\n{\n    \"a\": \"C\",\n    \"e\": \"Chị T kết hôn vào năm 2018, và theo luật, độ tuổi kết hôn tối thiểu cho nữ là 18 tuổi. Khi chị T kết hôn vào năm 2018, chị phải sinh năm 1999 hoặc trước đó để đủ 18 tuổi. Do đó, phương án C (1999) là đúng, trong khi A (2000) và B (1998) không đáp ứng yêu cầu về độ tuổi, còn D là sai vì có phương án đúng.\"\n}\n```",
+        "sga": "B"
+    },
+    {
+        "q": "Khi giải quyết ly hôn, Tòa án phải tiến hành thủ tục hòa giải. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"ĐÚNG\",\n    \"e\": \"Theo quy định tại Điều 54 Luật Hôn nhân và gia đình 2014, Tòa án phải tiến hành hòa giải trước khi giải quyết vụ án ly hôn. Đây là một bước quan trọng nhằm khuyến khích hai bên đạt được thỏa thuận với nhau, tránh kéo dài thời gian và phát sinh thêm xung đột. Việc hòa giải không chỉ giúp các đương sự có cơ hội để giải quyết mâu thuẫn mà còn bảo vệ quyền lợi hợp pháp của cả các bên liên quan.\"\n}",
+        "sga": "SAI"
+    },
+    {
+        "q": "Khi một bên vợ, chồng không đồng ý, người còn lại không thể tiến hành nhận nuôi con nuôi. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"ĐÚNG\",\n    \"e\": \"Theo quy định của pháp luật về nuôi con nuôi, việc nhận nuôi con nuôi cần phải có sự đồng ý của cả hai bên vợ chồng. Nếu một bên không đồng ý, người còn lại không thể tự ý thực hiện việc nhận nuôi con nuôi. Điều này nhằm bảo vệ quyền lợi và sự đồng thuận giữa các thành viên trong gia đình.\"\n}",
+        "sga": "ĐÚNG"
+    },
+    {
+        "q": "Khi hôn nhân chấm dứt, mọi quyền và nghĩa vụ giữa những người đã từng là vợ chồng cũng chấm dứt. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"SAI\",\n    \"e\": \"Khi hôn nhân chấm dứt, không phải mọi quyền và nghĩa vụ giữa những người đã từng là vợ chồng đều chấm dứt. Vẫn tồn tại các quyền và nghĩa vụ liên quan đến việc phân chia tài sản chung, nghĩa vụ nuôi dưỡng con cái nếu có, và các quyền lợi khác như quyền thừa kế. Theo quy định của pháp luật hôn nhân và gia đình, các quyền và nghĩa vụ này sẽ được giải quyết theo các quy định pháp lý thích hợp.\"\n}",
+        "sga": "SAI"
+    },
+    {
+        "q": "Khi vợ chồng ly hôn, con dưới 36 tháng tuổi được giao cho người vợ trực tiếp nuôi dưỡng. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"ĐÚNG\",\n    \"e\": \"Theo quy định tại khoản 2 Điều 81 Luật Hôn nhân và Gia đình 2014, con dưới 36 tháng tuổi được giao cho mẹ trực tiếp nuôi dưỡng, trừ trường hợp người mẹ không đủ điều kiện để chăm sóc, nuôi dưỡng trẻ. Vì vậy, câu hỏi đưa ra là đúng.\"\n}",
+        "sga": "SAI"
+    },
+    {
+        "q": "Chế độ tài sản theo thỏa thuận sẽ được áp dụng khi vợ chồng lựa chọn chế độ tài sản theo thỏa thuận. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"ĐÚNG\",\n    \"e\": \"Chế độ tài sản theo thỏa thuận sẽ được áp dụng khi vợ chồng lựa chọn chế độ tài sản theo thỏa thuận, phù hợp với quy định tại Điều 28 của Luật Hôn nhân và Gia đình 2014. Điều này cho phép vợ chồng tự thỏa thuận về việc xác lập và thực hiện quyền và nghĩa vụ đối với tài sản của họ. Các phương án khác như khái niệm sai hoặc không tương thích với quy định pháp luật sẽ không đúng.\"\n}",
+        "sga": "ĐÚNG"
+    },
+    {
+        "q": "Cơ quan quản lý nhà nước về trẻ em có quyền yêu cầu Tòa án thay đổi người trực tiếp nuôi con sau ly hôn khi cha hoặc mẹ không còn đủ điều kiện trông nom, chăm sóc, giáo dục con. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"ĐÚNG\",\n    \"e\": \"Cơ quan quản lý nhà nước về trẻ em có trách nhiệm bảo vệ quyền lợi của trẻ em. Khi cha hoặc mẹ không còn đủ điều kiện để trông nom, chăm sóc, giáo dục con, cơ quan này có quyền yêu cầu Tòa án thay đổi người trực tiếp nuôi con để đảm bảo sự phát triển và quyền lợi tốt nhất cho trẻ em.\"\n}",
+        "sga": "ĐÚNG"
+    },
+    {
+        "q": "Con dâu được hưởng quyền thừa kế của cha mẹ chồng. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"ĐÚNG\",\n    \"e\": \"Con dâu được hưởng quyền thừa kế của cha mẹ chồng theo quy định của Luật Dân sự. Cụ thể, Luật Dân sự Việt Nam công nhận quyền thừa kế của con dâu trong các trường hợp nhất định, khi cha mẹ chồng qua đời và không có di chúc quy định khác. Các phương án còn lại không đúng bởi vì quyền thừa kế không thể bị giới hạn hoặc ngăn cản dựa trên mối quan hệ con dâu mà phải tuân theo các quy định pháp luật hiện hành.\"\n}",
+        "sga": "SAI"
+    },
+    {
+        "q": "Con nuôi và con đẻ không được kết hôn với nhau. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"ĐÚNG\",\n    \"e\": \"Theo quy định tại điểm d, khoản 2 Điều 5 Luật Hôn nhân và gia đình 2014, việc kết hôn hoặc chung sống như vợ chồng giữa cha, mẹ nuôi với con nuôi là không được phép. Điều này có nghĩa là con nuôi không được kết hôn với cha, mẹ nuôi và do đó, cũng không được phép kết hôn với nhau.\"\n}",
+        "sga": "SAI"
+    },
+    {
+        "q": "Nam nữ sống chung như vợ chồng có thể được pháp luật công nhận là vợ chồng. ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"SAI\",\n    \"e\": \"Nam nữ sống chung như vợ chồng mà không có đăng ký kết hôn thì pháp luật không công nhận họ là vợ chồng. Theo quy định tại điểm b, khoản 3 - Nghị quyết 35/2000/QH-10 của Quốc hội, trường hợp này chỉ được coi là chung sống mà không có giá trị pháp lý là quan hệ vợ chồng.\"\n}",
+        "sga": "ĐÚNG"
+    },
+    {
+        "q": "Người đang chấp hành án phạt tù không được kết hôn.  ĐÚNG hay SAI?",
+        "a": "{\n    \"a\": \"ĐÚNG\",\n    \"e\": \"Theo quy định của pháp luật, người đang chấp hành án phạt tù sẽ bị hạn chế một số quyền, trong đó có quyền kết hôn. Điều này nhằm đảm bảo tính nghiêm ngặt của việc chấp hành án phạt và tạo điều kiện cho người phạm tội có cơ hội tự cải tạo bản thân trong thời gian thi hành án.\"\n}",
+        "sga": "ĐÚNG"
+    },
+    {
+        "q": "Vợ chồng có quyền ly hôn theo yêu cầu của một bên.  ĐÚNG hay SAI?",
+        "a": "{\n    \"a\" : \"ĐÚNG\",\n    \"e\" : \"Theo quy định của pháp luật Việt Nam, một bên vợ hoặc chồng có quyền yêu cầu Tòa án giải quyết ly hôn mà không cần sự đồng ý của bên kia. Điều này được nêu trong Luật Hôn nhân và Gia đình, cho thấy rằng quyền yêu cầu ly hôn không phụ thuộc vào sự đồng thuận của cả hai bên.\"\n}",
+        "sga": "ĐÚNG"
+    }
+]
